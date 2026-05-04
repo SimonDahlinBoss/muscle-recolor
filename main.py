@@ -9,8 +9,8 @@ app = Flask(__name__)
 # Map each muscle NAME to its color in your avatar image
 # You'll fill these in by eyedropping colors from your image
 MUSCLE_COLORS = {
-    "pectoralis_major":  (70, 160, 220),   # blue
-    "deltoid":           (168, 85, 247),   # purple
+    "pectoralis_major":  (79, 160, 190),   # turquoise
+    "deltoid":           (198, 96, 50),   # orange
     "bicep":             (234, 179, 8),    # orange
     "tricep":            (34, 197, 94),    # green
     "rectus_abdominis":  (220, 50, 50),    # red
